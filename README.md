@@ -3,7 +3,7 @@ Alpaca AI Model - Dhivehi Language
 
 <p align="center">
   <a href="https://github.com/Iyaaan/Alpaca-dhivehi">
-    <img src="https://github.com/Iyaaan/Alpaca-dhivehi/blob/main/logo.png" width="128" />
+    <img src="https://github.com/Iyaaan/Alpaca-dhivehi/blob/main/Aplong.png" />
   </a>
   <h1 align="center">Alpaca Dhivehi</h1>
 </p>
