@@ -1,4 +1,4 @@
-Alpaca AI Model - Dhivehi Language
+Alpaca Dataset - Dhivehi Language
 ==================================
 
 <p align="center">
@@ -8,17 +8,17 @@ Alpaca AI Model - Dhivehi Language
   <h1 align="center">Alpaca Dhivehi</h1>
 </p>
 
-This repository contains a JSON file that represents a translated version of the Alpaca AI model in the Dhivehi language. The Alpaca AI model is a large language model developed by OpenAI, based on the GPT-3.5 architecture.
+This repository contains a JSON file that represents a translated version of the Alpaca Dataset in the Dhivehi language. The Alpaca Dataset is a large language model developed by OpenAI, based on the GPT-3.5 architecture.
 
 About the Translation
 ---------------------
 
-The JSON file provided in this repository contains the translation of the Alpaca AI model into Dhivehi, also known as Maldivian, which is the official language of the Maldives. The translation aims to make the Alpaca AI model accessible and usable for Dhivehi speakers and developers.
+The JSON file provided in this repository contains the translation of the Alpaca Dataset into Dhivehi, also known as Maldivian, which is the official language of the Maldives. The translation aims to make the Alpaca Dataset accessible and usable for Dhivehi speakers and developers.
 
 File Structure
 --------------
 
-*   `alpaca_dhivehi.json`: This JSON file contains the translated version of the Alpaca AI model in Dhivehi language. It includes the necessary data and parameters to use the model for various natural language processing tasks.
+*   `alpaca_dhivehi.json`: This JSON file contains the translated version of the Alpaca Dataset in Dhivehi language. It includes the necessary data and parameters to use the model for various natural language processing tasks.
 
 Disclaimer
 ----------
@@ -28,7 +28,7 @@ Please note that this translation is provided as-is and may not be perfect or er
 Contributing
 ------------
 
-Contributions to improve the translated Alpaca AI model are welcome! If you find any issues or have suggestions for enhancing the model, please follow these steps:
+Contributions to improve the translated Alpaca Dataset are welcome! If you find any issues or have suggestions for enhancing the model, please follow these steps:
 
 1.  Fork the repository and create your branch (`git checkout -b feature/MyContribution`).
 2.  Make your changes and commit them (`git commit -m 'Add my contribution'`).
@@ -44,4 +44,4 @@ Contributors
 License
 -------
 
-The translated Alpaca AI model is released under the [MIT License](https://opensource.org/licenses/MIT). Please review the license file for more details.
+The translated Alpaca Dataset is released under the [MIT License](https://opensource.org/licenses/MIT). Please review the license file for more details.
