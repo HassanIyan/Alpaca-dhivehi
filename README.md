@@ -3,7 +3,7 @@ Alpaca Dataset - Dhivehi Language
 
 <p align="center">
   <a href="https://github.com/Iyaaan/Alpaca-dhivehi">
-    <img src="https://github.com/Iyaaan/Alpaca-dhivehi/blob/main/Aplong.png" />
+    <img src="https://github.com/Iyaaan/Alpaca-dhivehi/blob/main/logo.png" width="128" />
   </a>
   <h1 align="center">Alpaca Dhivehi</h1>
 </p>
@@ -40,6 +40,8 @@ Contributors
 
 -   [Hassan Iyan Abdul Raheem](https://twitter.com/h_iyaaan) - @h_iyaaan
 -   [Anaadh](https://github.com/Anaadh) - @Anaadh
+
+<img src="https://github.com/Iyaaan/Alpaca-dhivehi/blob/main/Aplong.png" />
 
 License
 -------
